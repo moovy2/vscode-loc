@@ -9,13 +9,16 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"displayName": "Motywy domyślne",
-			"description": "Domyślne jasne i ciemne motywy programu Visual Studio",
-			"darkPlusColorThemeLabel": "Ciemny+ (domyślny ciemny)",
-			"lightPlusColorThemeLabel": "Jasny+ (domyślny jasny)",
 			"darkColorThemeLabel": "Ciemny (Visual Studio)",
+			"darkModernThemeLabel": "Nowoczesny ciemny",
+			"darkPlusColorThemeLabel": "Ciemny+",
+			"description": "Domyślne jasne i ciemne motywy programu Visual Studio",
+			"displayName": "Motywy domyślne",
+			"hcColorThemeLabel": "Ciemny duży kontrast",
 			"lightColorThemeLabel": "Jasny (Visual Studio)",
-			"hcColorThemeLabel": "Duży kontrast",
+			"lightHcColorThemeLabel": "Jasny o dużym kontraście",
+			"lightModernThemeLabel": "Nowoczesny jasny",
+			"lightPlusColorThemeLabel": "Jasny+",
 			"minimalIconThemeLabel": "Minimalny (Visual Studio Code)"
 		}
 	}
