@@ -9,13 +9,16 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"displayName": "Tema predefinito",
-			"description": "I temi dark e light predefiniti in Visual Studio",
-			"darkPlusColorThemeLabel": "Più scuro (predefinito scuro)",
-			"lightPlusColorThemeLabel": "Più chiaro (predefinito chiaro)",
 			"darkColorThemeLabel": "Scuro (Visual Studio)",
+			"darkModernThemeLabel": "Moderno scuro",
+			"darkPlusColorThemeLabel": "Scuro+",
+			"description": "I temi dark e light predefiniti in Visual Studio",
+			"displayName": "Tema predefinito",
+			"hcColorThemeLabel": "Contrasto elevato scuro",
 			"lightColorThemeLabel": "Chiaro (Visual Studio)",
-			"hcColorThemeLabel": "Contrasto elevato",
+			"lightHcColorThemeLabel": "Contrasto elevato chiaro",
+			"lightModernThemeLabel": "Moderno chiaro",
+			"lightPlusColorThemeLabel": "Chiaro+",
 			"minimalIconThemeLabel": "Minimo (Visual Studio Code)"
 		}
 	}

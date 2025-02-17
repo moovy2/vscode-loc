@@ -9,13 +9,16 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"displayName": "Temas Padrão",
-			"description": "Os temas padrão claro e escuro do Visual Studio",
-			"darkPlusColorThemeLabel": "Escuro+ (escuro padrão)",
-			"lightPlusColorThemeLabel": "Claro+ (claro padrão)",
 			"darkColorThemeLabel": "Escuro (Visual Studio)",
+			"darkModernThemeLabel": "Escuro Moderno",
+			"darkPlusColorThemeLabel": "Escuro+",
+			"description": "Os temas padrão claro e escuro do Visual Studio",
+			"displayName": "Temas Padrão",
+			"hcColorThemeLabel": "Alto Contraste Escuro",
 			"lightColorThemeLabel": "Claro (Visual Studio)",
-			"hcColorThemeLabel": "Alto Contraste",
+			"lightHcColorThemeLabel": "Alto Contraste Claro",
+			"lightModernThemeLabel": "Moderno Claro",
+			"lightPlusColorThemeLabel": "Claro+",
 			"minimalIconThemeLabel": "Mínimo (Visual Studio Code)"
 		}
 	}
