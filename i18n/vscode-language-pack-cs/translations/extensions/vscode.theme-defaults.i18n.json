@@ -9,13 +9,16 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"displayName": "Výchozí motivy",
-			"description": "Výchozí světlé a tmavé motivy sady Visual Studio",
-			"darkPlusColorThemeLabel": "Tmavý+ (výchozí tmavý)",
-			"lightPlusColorThemeLabel": "Světlý+ (výchozí světlý)",
 			"darkColorThemeLabel": "Tmavý (Visual Studio)",
+			"darkModernThemeLabel": "Tmavé moderní",
+			"darkPlusColorThemeLabel": "Tmavý+",
+			"description": "Výchozí světlé a tmavé motivy sady Visual Studio",
+			"displayName": "Výchozí motivy",
+			"hcColorThemeLabel": "Tmavý vysoký kontrast",
 			"lightColorThemeLabel": "Světlý (Visual Studio)",
-			"hcColorThemeLabel": "Vysoký kontrast",
+			"lightHcColorThemeLabel": "Vysoký kontrast – světlý",
+			"lightModernThemeLabel": "Světlé moderní",
+			"lightPlusColorThemeLabel": "Světlý+",
 			"minimalIconThemeLabel": "Minimální (Visual Studio Code)"
 		}
 	}
